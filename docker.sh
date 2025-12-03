@@ -1,0 +1,2 @@
+sudo ssh -i /Users/ashwin/Desktop/egra-key-pair.pem.pem ubuntu@10.0.2.94
+git clone https://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@github.com/ashwin-wadhwani/results-view.git
